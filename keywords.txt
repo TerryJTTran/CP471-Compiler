@@ -1,0 +1,1 @@
+def,fed,int,double,if,fi,then,else,while,do,od,print,return,or,and,not
